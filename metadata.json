@@ -1,0 +1,6 @@
+{
+  "name": "Sewa Outdoor",
+  "description": "Aplikasi kasir dan manajemen sewa peralatan outdoor dengan katalog varian warna, harga 6 hari, member otomatis, QRIS, struk Bluetooth/WhatsApp, buku kas, laporan, dan backup Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
